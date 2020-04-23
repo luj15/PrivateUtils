@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * @program: gitHdfsFile
  * @description: This is the util class for date
- * @author: Luyupeng
+ * @author: 小和尚
  * @create: 2019-04-26 16:54
  **/
 public class DateUtil {
